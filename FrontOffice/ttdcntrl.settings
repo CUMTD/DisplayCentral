@@ -1,0 +1,79 @@
+<ttdcntrl ver="1.2">
+	<options>
+		<font name="Open Sans Condensed"/>
+		<agent>
+			<view order="1%2C2" bgcolor="1"/>
+			<label order="3"/>
+			<states>
+				<state type="0" color="95A5A6" text="Unknown"/>
+				<state type="1" color="95A5A6" text="Logged%20Out"/>
+				<state type="2" color="2ECC71" text="Idle"/>
+				<state type="3" color="CCCCCC" text="Idle%20Forwarded"/>
+				<state type="4" color="2ECC71" text="ACD%20Call"/>
+				<state type="5" color="E67E22" text="ACD%20Call%20On%20Hold"/>
+				<state type="6" color="2ECC71" text="Non%2DACD%20Call"/>
+				<state type="7" color="999900" text="Non%2DACD%20Call%20On%20Hold"/>
+				<state type="8" color="2ECC71" text="Outbound%20Call"/>
+				<state type="9" color="2ECC71" text="Outbound%20Trunk%20Call"/>
+				<state type="10" color="00FF00" text="Outbound%20Call%20On%20Hold"/>
+				<state type="12" color="E74C3C" text="Do%20Not%20Disturb"/>
+				<state type="14" color="9B59B6" text="Wrap%20Up"/>
+				<state type="15" color="9B59B6" text="Ringing"/>
+				<state type="16" color="E74C3C" text="Unavailable"/>
+				<state type="17" color="E74C3C" text="Not%20Ready"/>
+				<state type="18" color="660066" text="Aux%20Work%20Time"/>
+			</states>
+		</agent>
+		<extn>
+			<label order="1%2C3"/>
+			<states>
+				<state type="0" color="FFCCFF" text="Unknown"/>
+				<state type="2" color="FFFFFF" text="Idle"/>
+				<state type="3" color="CCCCCC" text="Idle%20Forwarded"/>
+				<state type="6" color="00FF66" text="Incoming"/>
+				<state type="7" color="009999" text="Incoming%20Hold"/>
+				<state type="8" color="33CC00" text="Outgoing"/>
+				<state type="9" color="99FF99" text="Outgoing%20Trunk"/>
+				<state type="10" color="00FF00" text="Outgoing%20Hold"/>
+				<state type="12" color="000000" text="Do%20Not%20Disturb"/>
+				<state type="14" color="FF00FF" text="Work%20Time"/>
+				<state type="15" color="3399FF" text="Ringing"/>
+				<state type="16" color="000066" text="Unavailable"/>
+				<state type="17" color="CCFFFF" text="Not%20Ready"/>
+				<state type="18" color="660066" text="Aux%20Work%20Time"/>
+			</states>
+		</extn>
+		<queue>
+			<label order="2"/>
+			<stats>
+				<stat type="1" text="Logged%20In"/>
+				<stat type="2" text="Logged%20Out"/>
+				<stat type="3" text="Available"/>
+				<stat type="4" text="Unavailable"/>
+				<stat type="5" text="Idle"/>
+				<stat type="6" text="ACD"/>
+				<stat type="7" text="Non%2DACD"/>
+				<stat type="8" text="DND"/>
+				<stat type="9" text="Unknown"/>
+				<stat type="11" text="Longest%20Wait"/>
+				<stat type="12" text="Waiting"/>
+				<stat type="13" text="Expected%20Wait"/>
+				<stat type="14" text="Abandoned"/>
+				<stat type="15" text="Telephone%20Service%20Factor"/>
+				<stat type="16" text="Answered%20Service%20Factor"/>
+				<stat type="17" text="On%20Outbound"/>
+				<stat type="18" text="Calls%20Offered"/>
+				<stat type="19" text="Answered"/>
+				<stat type="20" text="Calls%20Interflowed"/>
+				<stat type="21" text="Calls%20Requeued"/>
+			</stats>
+		</queue>
+		<general>
+			<view durationfmt="1" fontsize="1"/>
+			<alarms invert="0" flash="0">
+				<alarm type="1" color="CCFF33"/>
+				<alarm type="2" color="A52A00"/>
+			</alarms>
+		</general>
+	</options>
+</ttdcntrl>
