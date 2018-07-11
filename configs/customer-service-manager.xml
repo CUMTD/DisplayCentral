@@ -105,6 +105,9 @@
           <item type="4" resource="3" id="6273" mbr="5" queueid="200"/>
         </panel>
         <panel subdivide="0">
+          <item type="4" resource="3" id="6075" mbr="5" queueid="200"/>
+        </panel>
+        <panel subdivide="0">
           <item type="4" resource="3" id="6896" mbr="5" queueid="200"/>
         </panel>
         <panel subdivide="0">
