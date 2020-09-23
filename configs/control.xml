@@ -26,7 +26,7 @@
       </panel>
       <panel subdivide="1" rows="1" cols="4">
         <panel subdivide="0">
-          <item type="4" resource="6" id="999" color="FFFFFF" bgcolor="3498DB" view="0" unk="0" lout="0" aliased="1" alias="">
+          <item type="4" resource="6" id="999" color="FFFFFF" bgcolor="002f87" view="0" unk="0" lout="0" aliased="1" alias="">
             <stat type="3" enabled="1">
               <alarm type="warning" threshold="0"/>
               <alarm type="critical" threshold="0"/>
@@ -110,7 +110,7 @@
           </item>
         </panel>
         <panel subdivide="0">
-          <item type="4" resource="6" id="999" color="FFFFFF" bgcolor="3498DB" view="0" unk="0" lout="0" aliased="1" alias="">
+          <item type="4" resource="6" id="999" color="FFFFFF" bgcolor="002f87" view="0" unk="0" lout="0" aliased="1" alias="">
             <stat type="19" enabled="1">
               <alarm type="warning" threshold="0"/>
               <alarm type="critical" threshold="0"/>
@@ -194,7 +194,7 @@
           </item>
         </panel>
         <panel subdivide="0">
-          <item type="4" resource="6" id="999" color="FFFFFF" bgcolor="3498DB" view="0" unk="0" lout="0" aliased="1" alias="">
+          <item type="4" resource="6" id="999" color="FFFFFF" bgcolor="002f87" view="0" unk="0" lout="0" aliased="1" alias="">
             <stat type="12" enabled="1">
               <alarm type="warning" threshold="0"/>
               <alarm type="critical" threshold="0"/>
@@ -278,7 +278,7 @@
           </item>
         </panel>
         <panel subdivide="0">
-          <item type="4" resource="5" id="200" color="FFFFFF" bgcolor="3498DB" view="0" unk="0" lout="0" aliased="1" alias="">
+          <item type="4" resource="5" id="200" color="FFFFFF" bgcolor="002f87" view="0" unk="0" lout="0" aliased="1" alias="">
             <stat type="11" enabled="1">
               <alarm type="warning" threshold="0"/>
               <alarm type="critical" threshold="0"/>

@@ -9,7 +9,7 @@
     <panel subdivide="2" percent="38" vertical="1">
       <panel subdivide="1" rows="1" cols="3">
         <panel subdivide="0">
-          <item type="4" resource="5" id="200" color="FFFFFF" bgcolor="3498DB" view="0" unk="0" lout="0" aliased="1" alias="Agents">
+          <item type="4" resource="5" id="200" color="FFFFFF" bgcolor="002f87" view="0" unk="0" lout="0" aliased="1" alias="Agents">
             <stat type="1" enabled="1">
               <alarm type="warning" threshold="0"/>
               <alarm type="critical" threshold="0"/>
@@ -93,7 +93,7 @@
           </item>
         </panel>
         <panel subdivide="0">
-          <item type="4" resource="5" id="200" color="FFFFFF" bgcolor="3498DB" view="0" unk="0" lout="0" aliased="1" alias="Calls">
+          <item type="4" resource="5" id="200" color="FFFFFF" bgcolor="002f87" view="0" unk="0" lout="0" aliased="1" alias="Calls">
             <stat type="12" enabled="1">
               <alarm type="warning" threshold="0"/>
               <alarm type="critical" threshold="0"/>
@@ -177,7 +177,7 @@
           </item>
         </panel>
         <panel subdivide="0">
-          <item type="4" resource="6" id="999" color="FFFFFF" bgcolor="3498DB" view="0" unk="0" lout="0" aliased="1" alias="Wait%20Times">
+          <item type="4" resource="6" id="999" color="FFFFFF" bgcolor="002f87" view="0" unk="0" lout="0" aliased="1" alias="Wait%20Times">
             <stat type="13" enabled="1">
               <alarm type="warning" threshold="0"/>
               <alarm type="critical" threshold="0"/>
@@ -287,7 +287,7 @@
           <item type="4" resource="3" id="342" mbr="5" queueid="200"/>
         </panel>
         <panel subdivide="0">
-          <item type="4" resource="3" id="6767" mbr="5" queueid="200"/>
+          <item type="4" resource="3" id="6765" mbr="5" queueid="200"/>
         </panel>
         <panel subdivide="0">
           <item type="4" resource="3" id="6025" mbr="5" queueid="200"/>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ttdcntrl ver="1.2">
 	<options>
-		<font name="Open Sans Condensed" />
+		<font name="Roboto Condensed" />
 		<agent>
 			<view order="1%2C2" bgcolor="1" />
 			<label order="3" />
 			<states>
-				<state type="0" color="95A5A6" text="Unknown" />
-				<state type="1" color="95A5A6" text="Logged%20Out" />
-				<state type="2" color="2ECC71" text="Idle" />
-				<state type="3" color="2ECC71" text="Idle%20Forwarded" />
-				<state type="4" color="f1c40f" text="ACD%20Call" />
-				<state type="5" color="e67e22" text="Hold" />
-				<state type="6" color="f1c40f" text="Non%2DACD%20Call" />
-				<state type="7" color="e67e22" text="Hold" />
-				<state type="8" color="f1c40f" text="Outbound%20Call" />
-				<state type="9" color="f1c40f" text="Outbound%20Call" />
-				<state type="10" color="e67e22" text="Hold" />
-				<state type="12" color="E74C3C" text="DND" />
-				<state type="14" color="9B59B6" text="Wrap%20Up" />
-				<state type="15" color="9B59B6" text="Ringing" />
-				<state type="16" color="E74C3C" text="Unavailable" />
-				<state type="17" color="E74C3C" text="Not%20Ready" />
-				<state type="18" color="9B59B6" text="Work%20Time" />
+				<state type="0" color="a0b7c7" text="Unknown" />
+				<state type="1" color="a0b7c7" text="Logged%20Out" />
+				<state type="2" color="0071ce" text="Idle" />
+				<state type="3" color="0071ce" text="Idle%20Forwarded" />
+				<state type="4" color="008891" text="ACD%20Call" />
+				<state type="5" color="cb3f17" text="Hold" />
+				<state type="6" color="008891" text="Non%2DACD%20Call" />
+				<state type="7" color="cb3f17" text="Hold" />
+				<state type="8" color="008891" text="Outbound%20Call" />
+				<state type="9" color="008891" text="Outbound%20Call" />
+				<state type="10" color="cb3f17" text="Hold" />
+				<state type="12" color="e10027" text="DND" />
+				<state type="14" color="671973" text="Wrap%20Up" />
+				<state type="15" color="671973" text="Ringing" />
+				<state type="16" color="e10027" text="Unavailable" />
+				<state type="17" color="e10027" text="Not%20Ready" />
+				<state type="18" color="671973" text="Work%20Time" />
 			</states>
 		</agent>
 		<extn>
@@ -30,18 +30,18 @@
 			<states>
 				<state type="0" color="FFCCFF" text="Unknown" />
 				<state type="2" color="FFFFFF" text="Idle" />
-				<state type="3" color="2ECC71" text="Idle%20Forwarded" />
-				<state type="6" color="f1c40f" text="Incoming" />
-				<state type="7" color="e67e22" text="Hold" />
-				<state type="8" color="f1c40f" text="Outgoing" />
-				<state type="9" color="f1c40f" text="Outgoing" />
-				<state type="10" color="e67e22" text="Hold" />
-				<state type="12" color="E74C3C" text="DND" />
-				<state type="14" color="9B59B6" text="Work%20Time" />
+				<state type="3" color="0071ce" text="Idle%20Forwarded" />
+				<state type="6" color="008891" text="Incoming" />
+				<state type="7" color="cb3f17" text="Hold" />
+				<state type="8" color="008891" text="Outgoing" />
+				<state type="9" color="008891" text="Outgoing" />
+				<state type="10" color="cb3f17" text="Hold" />
+				<state type="12" color="e10027" text="DND" />
+				<state type="14" color="671973" text="Work%20Time" />
 				<state type="15" color="3399FF" text="Ringing" />
 				<state type="16" color="000066" text="Unavailable" />
 				<state type="17" color="CCFFFF" text="Not%20Ready" />
-				<state type="18" color="9B59B6" text="Work%20Time" />
+				<state type="18" color="671973" text="Work%20Time" />
 			</states>
 		</extn>
 		<queue>
